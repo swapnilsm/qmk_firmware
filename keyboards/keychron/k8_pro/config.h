@@ -108,3 +108,17 @@
 /* Factory test keys */
 #define FN_KEY1 MO(1)
 #define FN_KEY2 MO(3)
+
+
+/* Customization */
+
+/* Enable CAPS_WORD */
+#define DOUBLE_TAP_SHIFT_TURNS_ON_CAPS_WORD
+
+/* Tap Dance */
+#define TAPPING_TERM 175
+#define TAPPING_TERM_PER_KEY
+#define IGNORE_MOD_TAP_INTERRUPT
+
+/* Retro shift */
+#define RETRO_SHIFT
