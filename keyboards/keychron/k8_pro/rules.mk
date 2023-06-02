@@ -24,7 +24,6 @@ AUDIO_ENABLE = no           # Audio output on port C6
 DIP_SWITCH_ENABLE = yes
 RAW_ENABLE = yes
 
-
 # Customizations
 # TAP_DANCE_ENABLE = yes
 # COMBO_ENABLE = yes
